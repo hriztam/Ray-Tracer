@@ -1,6 +1,6 @@
 # Ray-Tracer
 
-Creating a Ray Tracker (physics engine) in pure C
+Creating a Ray Tracker (physics engine) in C++
 
 I want to make this because I love physics and I always wanted to simulate that in code
 
@@ -9,4 +9,5 @@ Concept:
 
 This is a general Readme file, which will explain the things briefly, if you want a more in-depth documentation on how I made this and what was my thought process behind every step, check out the docs folder
 
+I'm currently follwing a book called "Ray Tracer in one weekend"
 Thank you for reading
