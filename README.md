@@ -16,5 +16,7 @@ This is my final render (10 samples per pixel u can easily get a high resolution
 
 ![Concept Art](assets/final_render.png)
 
+Starting to work on v2 of the project
+
 I'm currently follwing a book called "Ray Tracer in one weekend"
 Thank you for reading
